@@ -5,4 +5,4 @@ Welcome to a bilingual blog for internal auditors. This site helps you escape pl
 ## Choose your language / Wybierz język
 
 - EN [English version](index-en.md)
-- 🇵🇱 [Wersja polska](index-pl.md)
+- PL [Wersja polska](index-pl.md)
