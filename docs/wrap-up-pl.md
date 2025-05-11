@@ -1,10 +1,10 @@
-# Podsumowanie Dojrzałości Planowania
+# Podsumowanie
 
-Ta seria obejmuje cztery poziomy rozwoju planowania audytu. Gdzie Ty się znajdujesz?
+Ta seria obejmuje cztery poziomy rozwoju planowania audytu. Gdzie się obecnie znajdujesz?
 
 ## Przypomnienie Poziomów
 
-1. Word (chaos manualny)
+1. Word (chaos ręcznego planowania)
 2. Excel (podstawowa struktura)
 3. Python (automatyzacja + struktura)
 4. FastAPI (współpraca + workflow)
