@@ -1,4 +1,4 @@
-# Poziom 2 – Od Excela do Struktury: Ekstrakcja i Czyszczenie w Pythonie
+# Poziom 2 – Od Excela do struktury: Ekstrakcja i czyszczenie w Pythonie
 
 Kiedy Excel staje się zbyt chaotyczny albo potrzebujesz automatyzacji, Python pomoże Ci wyczyścić dane i je przetwarzać.
 
