@@ -1,4 +1,4 @@
-# Poziom 1 – Spraw, by Twój Excelowy Plan Audytu Działał Lepiej
+# Poziom 1 – Spraw, by twój plan audytu w Excelu działał lepiej
 
 Jeśli już planujesz w Excelu, to dobrze — ale większość planów audytów nadal jest chaotyczna, pełna błędów i trudna do ponownego użycia.
 
