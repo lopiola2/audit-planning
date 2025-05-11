@@ -1,8 +1,13 @@
-# Audit Planning
+<h1 align="center"> Audit Planning Series Blog</h1>
 
-Welcome to a bilingual blog for internal auditors. This site helps you escape planning chaos — from Word and Excel to clean web-based workflows.
+<p align="center">Welcome to a bilingual blog for internal auditors. This site helps you escape planning chaos — from Word and Excel to clean web-based workflows.</p>
 
-## Choose your language / Wybierz język
 
-- EN [English version](index-en.md)
-- PL [Wersja polska](index-pl.md)
+### 🌐 Choose Your Language / Wybierz język
+
+- 🇬🇧 [English Version](index-en.md)
+- 🇵🇱 [Wersja Polska](index-pl.md)
+
+---
+
+<p align="center"><i>From Word… to workflow.</i></p>
