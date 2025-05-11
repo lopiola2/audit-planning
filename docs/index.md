@@ -1,6 +1,6 @@
 <h1 align="center"> Audit Planning Series Page</h1>
 
-<p align="center">Welcome to a bilingual blog for internal auditors. This site helps you escape planning chaos — from Word and Excel to clean web-based workflows.</p>
+### Welcome to a bilingual blog for internal auditors. This site helps you escape planning chaos — from Word and Excel to clean web-based workflows.
 
 
 ### Choose Your Language / Wybierz język
