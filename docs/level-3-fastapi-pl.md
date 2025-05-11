@@ -1,6 +1,6 @@
-# Poziom 3 – Budowa Aplikacji Planistycznej z FastAPI
+# Poziom 3 – Budowa aplikacji planistycznej z FastAPI
 
-Jesteś gotowy/a porzucić Excela i używać strukturalnej aplikacji webowej, która wspiera planowanie, zmiany i raportowanie.
+Jesteś gotowy/a porzucić Excela i używać aplikacji webowej, która wspiera planowanie, zmiany i raportowanie.
 
 ## Dlaczego To Ważne
 
